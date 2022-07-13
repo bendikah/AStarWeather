@@ -1,6 +1,9 @@
 # AStarWeather
 A* algorithm modified to take wind, waves and current into account. Built using SeaCharts API and Shapely.
 
+Some example scripts are included.
+You will need SeaCharts to run these: https://github.com/simbli/seacharts
+
 Written for my master's thesis work in 2022.
 Published under the MIT License.
 
